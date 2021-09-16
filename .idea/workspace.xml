@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bb9cef24-69c5-41ef-aa5d-fc2c66fdcacd" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -47,9 +46,8 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="245" />
-    <option name="y" value="62" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="46" />
     <option name="width" value="1792" />
     <option name="height" value="1010" />
   </component>
@@ -130,7 +128,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="245" y="62" width="1792" height="1010" extended-state="0" />
+    <frame x="0" y="29" width="1792" height="1010" extended-state="6" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25344828" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
