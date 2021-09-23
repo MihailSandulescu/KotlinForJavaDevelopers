@@ -1,4 +1,4 @@
-package Challenge1
+package challenge1
 
 //Challenge 1
 

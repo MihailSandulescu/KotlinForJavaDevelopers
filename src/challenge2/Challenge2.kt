@@ -1,4 +1,4 @@
-package Challenge2
+package challenge2
 
 
 fun main() {
